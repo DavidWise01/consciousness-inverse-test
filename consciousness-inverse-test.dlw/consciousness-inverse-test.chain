@@ -4,6 +4,6 @@ slug  : consciousness-inverse-test
 seal  : 1510b49d2dc9e969ac7a8a6baeba04ebbb6bc3e00d22d607503c3c7435236dd2
 prev  : 9fdc943384100aad02c8d6b27d649cbfa97186e8fdae7c71e1a794dec4ca6325
 link  : af4e2ce6c168ae77c3233d9f60f01d1bce87f74b72cd85df5abeaf3a916bb2ae
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
